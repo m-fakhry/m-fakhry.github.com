@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando S. Saiz | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/fernando-s.-saiz/</link>
+      <atom:link href="https://m-fakhry.github.io/author/fernando-s.-saiz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando S. Saiz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 22:43:15 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Fernando S. Saiz</title>
+      <link>https://m-fakhry.github.io/author/fernando-s.-saiz/</link>
+    </image>
+    
+    <item>
+      <title>Informing Clinical Assessment by Contextualizing Post-Hoc Explanations of Risk Prediction Models in Type-2 Diabetes</title>
+      <link>https://m-fakhry.github.io/publication/chari-2023-informing/</link>
+      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chari-2023-informing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

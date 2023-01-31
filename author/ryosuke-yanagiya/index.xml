@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryosuke Yanagiya | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/ryosuke-yanagiya/</link>
+      <atom:link href="https://m-fakhry.github.io/author/ryosuke-yanagiya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryosuke Yanagiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ryosuke Yanagiya</title>
+      <link>https://m-fakhry.github.io/author/ryosuke-yanagiya/</link>
+    </image>
+    
+    <item>
+      <title>A Comparative Time-to-Event Analysis Across Health Systems</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2021-acomparative/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2021-acomparative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

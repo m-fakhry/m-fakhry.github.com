@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Treatment | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/treatment/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/treatment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Treatment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Treatment</title>
+      <link>https://m-fakhry.github.io/tag/treatment/</link>
+    </image>
+    
+    <item>
+      <title>G-Net: a Recurrent Network Approach to G-Computation for Counterfactual Prediction Under a Dynamic Treatment Regime</title>
+      <link>https://m-fakhry.github.io/publication/li-2021-g/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/li-2021-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Multiple Blood-Cleansing Interventions in Sepsis, Characterized in Rats</title>
+      <link>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Model for Optimizing Therapy Duration for Septic Patients</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2014-data/</link>
+      <pubDate>Sat, 26 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2014-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Diagnosis And Its Benefits In Sepsis Blood Purification Treatment</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-early/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-early/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

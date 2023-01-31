@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classification | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/classification/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Classification</title>
+      <link>https://m-fakhry.github.io/tag/classification/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Electronic Health Records to Mine Drug Effects on Laboratory Test Results</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2017-exploiting/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2017-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Sensitive Time-series Classification</title>
+      <link>https://m-fakhry.github.io/publication/roychoudhury-2017-cost/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/roychoudhury-2017-cost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Feature Selection Using Coordinate Descent Optimization</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False Alarm Suppression in Early Prediction of Cardiac Arrhythmia</title>
+      <link>https://m-fakhry.github.io/publication/roychoudhury-2015-false/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/roychoudhury-2015-false/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient--Specific Early Classification of Multivariate Observations</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2015-patient/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2015-patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Temporal Patterns For Estimating Uncertainty In Interpretable Early Decision Making</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2014-utilizing/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2014-utilizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Model for Optimizing Therapy Duration for Septic Patients</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2014-data/</link>
+      <pubDate>Sat, 26 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2014-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction Of Interpretable Multivariate Patterns For Early Diagnostics</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Diagnosis And Its Benefits In Sepsis Blood Purification Treatment</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-early/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Early Classification Of Multivariate Time Series</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-interpretable/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Classification of Multivariate Time Series Using A Hybrid HMM/SVM Model</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-earlyb/</link>
+      <pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-earlyb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Classification of Multivariate Temporal Observations By Extraction of Interpretable Shapelets</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</link>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Analysis in Protein Disorder Prediction</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

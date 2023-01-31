@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milan Vukicevic | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/milan-vukicevic/</link>
+      <atom:link href="https://m-fakhry.github.io/author/milan-vukicevic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Milan Vukicevic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Milan Vukicevic</title>
+      <link>https://m-fakhry.github.io/author/milan-vukicevic/</link>
+    </image>
+    
+    <item>
+      <title>Extending the Modelling Capacity of Gaussian Conditional Random Fields while Learning Faster</title>
+      <link>https://m-fakhry.github.io/publication/glass-2016-extending/</link>
+      <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/glass-2016-extending/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

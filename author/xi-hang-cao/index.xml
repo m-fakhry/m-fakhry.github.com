@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Hang Cao | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/xi-hang-cao/</link>
+      <atom:link href="https://m-fakhry.github.io/author/xi-hang-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xi Hang Cao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xi Hang Cao</title>
+      <link>https://m-fakhry.github.io/author/xi-hang-cao/</link>
+    </image>
+    
+    <item>
+      <title>Temporal Graph Regression via Structure-Aware Intrinsic Representation Learning</title>
+      <link>https://m-fakhry.github.io/publication/han-2019-temporal/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/han-2019-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Multiple Blood-Cleansing Interventions in Sepsis, Characterized in Rats</title>
+      <link>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Feature Selection Using Coordinate Descent Optimization</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

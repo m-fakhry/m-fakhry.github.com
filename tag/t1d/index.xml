@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T1D | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/t1d/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/t1d/index.xml" rel="self" type="application/rss+xml" />
+    <description>T1D</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>T1D</title>
+      <link>https://m-fakhry.github.io/tag/t1d/</link>
+    </image>
+    
+    <item>
+      <title>Two-Age Islet-Autoantibody Screening for Childhood Type 1 Diabetes: A Prospective Cohort Study</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-two/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method For Developing An Ontology Based On Biomarker Information To Improve Clinical Prediction</title>
+      <link>https://m-fakhry.github.io/publication/ng-2021-amethod/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ng-2021-amethod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Islet Autoimmunity and HLA Markers of Presymptomatic and Clinical Type 1 Diabetes: Joint Analyses of Prospective Cohort Studies in Finland, Germany, Sweden, and the U.S.</title>
+      <link>https://m-fakhry.github.io/publication/anand-2021-islet/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/anand-2021-islet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Type 1 Diabetes Onset using Novel Survival Analysis with Biomarker Ontology</title>
+      <link>https://m-fakhry.github.io/publication/li-2020-predicting/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/li-2020-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Longitudinal Autoantibody for Phenotyping of Progression Rates to Type 1 Diabetes</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2020-leveraging/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2020-leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COOL - A Screening Collaborative Open Outcomes Tool</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-cool/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Ages for Screening for T1D Risk in Children</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2020-optimal/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2020-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Longitudinal Autoantibody Profiles and the Progression Rates to Type 1 Diabetes</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2019-analysis/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2019-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Onset of Type 1 Diabetes Using a Novel Interaction Model</title>
+      <link>https://m-fakhry.github.io/publication/liu-2019-predicting/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/liu-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presymptomatic and Clinical T1D in The US, Sweden, and Finland: Joint Analysis of Four Birth Cohort Studies</title>
+      <link>https://m-fakhry.github.io/publication/anand-2019-presymptomatic/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/anand-2019-presymptomatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis of Alternate Definitions of Multiple Islet Autoantibody Positivity</title>
+      <link>https://m-fakhry.github.io/publication/liu-2019-sensitivity/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/liu-2019-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

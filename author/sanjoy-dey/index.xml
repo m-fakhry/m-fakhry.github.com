@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanjoy Dey | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/sanjoy-dey/</link>
+      <atom:link href="https://m-fakhry.github.io/author/sanjoy-dey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanjoy Dey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sanjoy Dey</title>
+      <link>https://m-fakhry.github.io/author/sanjoy-dey/</link>
+    </image>
+    
+    <item>
+      <title>Human-Centered Explainability For Life Sciences, Healthcare, And Medical Informatics</title>
+      <link>https://m-fakhry.github.io/publication/dey-2022-human/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2022-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Precise Causal Multi-Drug-Drug Interaction for Adverse Drug Reactions</title>
+      <link>https://m-fakhry.github.io/publication/dey-2021-finding/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2021-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Clinical and Genomic Factors on COVID-19 Disease Severity</title>
+      <link>https://m-fakhry.github.io/publication/dey-2021-impact/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2021-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparent and Distributed AI Prediction Modeling: A Case Study on Pediatric Covid</title>
+      <link>https://m-fakhry.github.io/publication/saiz-2022-transparent/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/saiz-2022-transparent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Causal Mechanistic Drug-Drug Interactions from Observational Data</title>
+      <link>https://m-fakhry.github.io/publication/dey-2020-finding/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2020-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Interpretable Strategies in the Presence of Existing Domain Knowledge</title>
+      <link>https://m-fakhry.github.io/publication/xiao-2019-learning/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/xiao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Causal Multi-Drug-Drug Interaction for Adverse Drug Reactions</title>
+      <link>https://m-fakhry.github.io/publication/dey-2018-estimating/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2018-estimating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

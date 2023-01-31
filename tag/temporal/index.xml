@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temporal | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/temporal/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/temporal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temporal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Temporal</title>
+      <link>https://m-fakhry.github.io/tag/temporal/</link>
+    </image>
+    
+    <item>
+      <title>G-Net: a Recurrent Network Approach to G-Computation for Counterfactual Prediction Under a Dynamic Treatment Regime</title>
+      <link>https://m-fakhry.github.io/publication/li-2021-g/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/li-2021-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blending Knowledge in Deep Recurrent Networks for Adverse Event Prediction at Hospital Discharge</title>
+      <link>https://m-fakhry.github.io/publication/chakraborty-2021-blending/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chakraborty-2021-blending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Longitudinal Autoantibody for Phenotyping of Progression Rates to Type 1 Diabetes</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2020-leveraging/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2020-leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eXITs: An Ensemble Approach for Imputing Missing EHR Data</title>
+      <link>https://m-fakhry.github.io/publication/codella-2019-exits/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/codella-2019-exits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Longitudinal Autoantibody Profiles and the Progression Rates to Type 1 Diabetes</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2019-analysis/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2019-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Onset of Type 1 Diabetes Using a Novel Interaction Model</title>
+      <link>https://m-fakhry.github.io/publication/liu-2019-predicting/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/liu-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis of Alternate Definitions of Multiple Islet Autoantibody Positivity</title>
+      <link>https://m-fakhry.github.io/publication/liu-2019-sensitivity/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/liu-2019-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Graph Regression via Structure-Aware Intrinsic Representation Learning</title>
+      <link>https://m-fakhry.github.io/publication/han-2019-temporal/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/han-2019-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Conditional Dependency Network for Structured Regression</title>
+      <link>https://m-fakhry.github.io/publication/han-2017-continuous/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/han-2017-continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Redundancy Maximum Relevance Feature Selection Approach For Temporal Gene Expression Data</title>
+      <link>https://m-fakhry.github.io/publication/radovic-2017-minimum/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/radovic-2017-minimum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast Structured Regression For Large Networks</title>
+      <link>https://m-fakhry.github.io/publication/zhou-2016-fast/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/zhou-2016-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Learning of Representation and Structure for Sparse Regression on Graphs</title>
+      <link>https://m-fakhry.github.io/publication/han-2016-joint/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/han-2016-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Multiple Blood-Cleansing Interventions in Sepsis, Characterized in Rats</title>
+      <link>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending the Modelling Capacity of Gaussian Conditional Random Fields while Learning Faster</title>
+      <link>https://m-fakhry.github.io/publication/glass-2016-extending/</link>
+      <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/glass-2016-extending/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

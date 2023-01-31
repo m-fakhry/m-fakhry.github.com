@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladan Radosavljevic | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/vladan-radosavljevic/</link>
+      <atom:link href="https://m-fakhry.github.io/author/vladan-radosavljevic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vladan Radosavljevic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Vladan Radosavljevic</title>
+      <link>https://m-fakhry.github.io/author/vladan-radosavljevic/</link>
+    </image>
+    
+    <item>
+      <title>Utilizing Temporal Patterns For Estimating Uncertainty In Interpretable Early Decision Making</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2014-utilizing/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2014-utilizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction Of Interpretable Multivariate Patterns For Early Diagnostics</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Diagnosis And Its Benefits In Sepsis Blood Purification Treatment</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-early/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-early/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

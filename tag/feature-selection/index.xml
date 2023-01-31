@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Selection | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/feature-selection/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/feature-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Selection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature Selection</title>
+      <link>https://m-fakhry.github.io/tag/feature-selection/</link>
+    </image>
+    
+    <item>
+      <title>Minimum Redundancy Maximum Relevance Feature Selection Approach For Temporal Gene Expression Data</title>
+      <link>https://m-fakhry.github.io/publication/radovic-2017-minimum/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/radovic-2017-minimum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Feature Selection Using Coordinate Descent Optimization</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction Of Interpretable Multivariate Patterns For Early Diagnostics</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA Methylation Differences at Growth Related Genes Correlate With Birth Weight: A Molecular Signature Linked To Developmental Origins of Adult Disease?</title>
+      <link>https://m-fakhry.github.io/publication/turan-2012-dna/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/turan-2012-dna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

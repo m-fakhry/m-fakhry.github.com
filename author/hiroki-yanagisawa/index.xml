@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroki Yanagisawa | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/hiroki-yanagisawa/</link>
+      <atom:link href="https://m-fakhry.github.io/author/hiroki-yanagisawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroki Yanagisawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hiroki Yanagisawa</title>
+      <link>https://m-fakhry.github.io/author/hiroki-yanagisawa/</link>
+    </image>
+    
+    <item>
+      <title>Data-Driven Disease Progression Modeling</title>
+      <link>https://m-fakhry.github.io/publication/ng-2022-data/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ng-2022-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Time-to-Event Analysis Across Health Systems</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2021-acomparative/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2021-acomparative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

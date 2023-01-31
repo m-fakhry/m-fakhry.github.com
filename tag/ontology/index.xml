@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ontology | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/ontology/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/ontology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ontology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 22:43:15 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ontology</title>
+      <link>https://m-fakhry.github.io/tag/ontology/</link>
+    </image>
+    
+    <item>
+      <title>Explanation Ontology: A General-Purpose, Semantic Representation for Supporting User-Centered Explanations</title>
+      <link>https://m-fakhry.github.io/publication/chari-2023-explanation/</link>
+      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chari-2023-explanation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method For Developing An Ontology Based On Biomarker Information To Improve Clinical Prediction</title>
+      <link>https://m-fakhry.github.io/publication/ng-2021-amethod/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ng-2021-amethod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypical Ontology Driven Framework For Multi-Task Learning</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2021-phenotypical/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2021-phenotypical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Type 1 Diabetes Onset using Novel Survival Analysis with Biomarker Ontology</title>
+      <link>https://m-fakhry.github.io/publication/li-2020-predicting/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/li-2020-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A System for Generating Specialized Phenotypical Embedding</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-asystem/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-asystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ODVICE: An Ontology-Driven Visual Analytic Tool for Interactive Cohort Extraction</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2020-odvice/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2020-odvice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

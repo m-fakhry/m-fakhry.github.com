@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daby Sow | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/daby-sow/</link>
+      <atom:link href="https://m-fakhry.github.io/author/daby-sow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daby Sow</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Daby Sow</title>
+      <link>https://m-fakhry.github.io/author/daby-sow/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Pain Now and in the Future Through Personalized Physiologic Mobility Metrics</title>
+      <link>https://m-fakhry.github.io/publication/rauck-2022-predicting/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/rauck-2022-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Centered Explainability For Life Sciences, Healthcare, And Medical Informatics</title>
+      <link>https://m-fakhry.github.io/publication/dey-2022-human/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2022-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon Tuner </title>
+      <link>https://m-fakhry.github.io/publication/chakraborty-2021-carbon/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chakraborty-2021-carbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Time-to-Event Analysis Across Health Systems</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2021-acomparative/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2021-acomparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Clinical and Genomic Factors on COVID-19 Disease Severity</title>
+      <link>https://m-fakhry.github.io/publication/dey-2021-impact/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2021-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blending Knowledge in Deep Recurrent Networks for Adverse Event Prediction at Hospital Discharge</title>
+      <link>https://m-fakhry.github.io/publication/chakraborty-2021-blending/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chakraborty-2021-blending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypical Ontology Driven Framework For Multi-Task Learning</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2021-phenotypical/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2021-phenotypical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System and Method of On-Demand Treatment of Pain in Targeted Area of a Human Subject</title>
+      <link>https://m-fakhry.github.io/publication/sow-2021-system/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/sow-2021-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Causal Mechanistic Drug-Drug Interactions from Observational Data</title>
+      <link>https://m-fakhry.github.io/publication/dey-2020-finding/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2020-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A System for Generating Specialized Phenotypical Embedding</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-asystem/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-asystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ODVICE: An Ontology-Driven Visual Analytic Tool for Interactive Cohort Extraction</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2020-odvice/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2020-odvice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Phenotyping with Limited Data and Winning the Partners Healthcare Biobank Challenge</title>
+      <link>https://m-fakhry.github.io/publication/chakraborty-2020-computational/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chakraborty-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Interpretable Strategies in the Presence of Existing Domain Knowledge</title>
+      <link>https://m-fakhry.github.io/publication/xiao-2019-learning/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/xiao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eXITs: An Ensemble Approach for Imputing Missing EHR Data</title>
+      <link>https://m-fakhry.github.io/publication/codella-2019-exits/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/codella-2019-exits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Causal Multi-Drug-Drug Interaction for Adverse Drug Reactions</title>
+      <link>https://m-fakhry.github.io/publication/dey-2018-estimating/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2018-estimating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

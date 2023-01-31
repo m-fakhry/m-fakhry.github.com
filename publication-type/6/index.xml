@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/publication-type/6/</link>
+      <atom:link href="https://m-fakhry.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>https://m-fakhry.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Data-Driven Disease Progression Modeling</title>
+      <link>https://m-fakhry.github.io/publication/ng-2022-data/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ng-2022-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Pain Now and in the Future Through Personalized Physiologic Mobility Metrics</title>
+      <link>https://m-fakhry.github.io/publication/rauck-2022-predicting/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/rauck-2022-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Ages for Screening for T1D Risk in Children</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2020-optimal/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2020-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Longitudinal Autoantibody Profiles and the Progression Rates to Type 1 Diabetes</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2019-analysis/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2019-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Onset of Type 1 Diabetes Using a Novel Interaction Model</title>
+      <link>https://m-fakhry.github.io/publication/liu-2019-predicting/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/liu-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presymptomatic and Clinical T1D in The US, Sweden, and Finland: Joint Analysis of Four Birth Cohort Studies</title>
+      <link>https://m-fakhry.github.io/publication/anand-2019-presymptomatic/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/anand-2019-presymptomatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis of Alternate Definitions of Multiple Islet Autoantibody Positivity</title>
+      <link>https://m-fakhry.github.io/publication/liu-2019-sensitivity/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/liu-2019-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

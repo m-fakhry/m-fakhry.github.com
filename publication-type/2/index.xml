@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/publication-type/2/</link>
+      <atom:link href="https://m-fakhry.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 22:43:15 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://m-fakhry.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Explanation Ontology: A General-Purpose, Semantic Representation for Supporting User-Centered Explanations</title>
+      <link>https://m-fakhry.github.io/publication/chari-2023-explanation/</link>
+      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chari-2023-explanation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informing Clinical Assessment by Contextualizing Post-Hoc Explanations of Risk Prediction Models in Type-2 Diabetes</title>
+      <link>https://m-fakhry.github.io/publication/chari-2023-informing/</link>
+      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chari-2023-informing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Age Islet-Autoantibody Screening for Childhood Type 1 Diabetes: A Prospective Cohort Study</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-two/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Computational Complexity of the COOL Screening Tool</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-improving/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Centered Explainability For Life Sciences, Healthcare, And Medical Informatics</title>
+      <link>https://m-fakhry.github.io/publication/dey-2022-human/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2022-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Islet Autoimmunity and HLA Markers of Presymptomatic and Clinical Type 1 Diabetes: Joint Analyses of Prospective Cohort Studies in Finland, Germany, Sweden, and the U.S.</title>
+      <link>https://m-fakhry.github.io/publication/anand-2021-islet/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/anand-2021-islet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Redundancy Maximum Relevance Feature Selection Approach For Temporal Gene Expression Data</title>
+      <link>https://m-fakhry.github.io/publication/radovic-2017-minimum/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/radovic-2017-minimum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Multiple Blood-Cleansing Interventions in Sepsis, Characterized in Rats</title>
+      <link>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Feature Selection Using Coordinate Descent Optimization</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient--Specific Early Classification of Multivariate Observations</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2015-patient/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2015-patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D2P2: Database Of Disordered Protein Predictions</title>
+      <link>https://m-fakhry.github.io/publication/oates-2013-d-2-p-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/oates-2013-d-2-p-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Classification of Multivariate Temporal Observations By Extraction of Interpretable Shapelets</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</link>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA Methylation Differences at Growth Related Genes Correlate With Birth Weight: A Molecular Signature Linked To Developmental Origins of Adult Disease?</title>
+      <link>https://m-fakhry.github.io/publication/turan-2012-dna/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/turan-2012-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Analysis in Protein Disorder Prediction</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

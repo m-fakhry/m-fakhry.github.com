@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/publication-type/8/</link>
+      <atom:link href="https://m-fakhry.github.io/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>8</title>
+      <link>https://m-fakhry.github.io/publication-type/8/</link>
+    </image>
+    
+    <item>
+      <title>Finding Precise Causal Multi-Drug-Drug Interaction for Adverse Drug Reactions</title>
+      <link>https://m-fakhry.github.io/publication/dey-2021-finding/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/dey-2021-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon Tuner </title>
+      <link>https://m-fakhry.github.io/publication/chakraborty-2021-carbon/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/chakraborty-2021-carbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method For Developing An Ontology Based On Biomarker Information To Improve Clinical Prediction</title>
+      <link>https://m-fakhry.github.io/publication/ng-2021-amethod/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ng-2021-amethod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System and Method of On-Demand Treatment of Pain in Targeted Area of a Human Subject</title>
+      <link>https://m-fakhry.github.io/publication/sow-2021-system/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/sow-2021-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A System for Generating Specialized Phenotypical Embedding</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-asystem/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-asystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COOL - A Screening Collaborative Open Outcomes Tool</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2022-cool/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2022-cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Interpretable Strategies in the Presence of Existing Domain Knowledge</title>
+      <link>https://m-fakhry.github.io/publication/xiao-2019-learning/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/xiao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temple | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/temple/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/temple/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temple</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Temple</title>
+      <link>https://m-fakhry.github.io/tag/temple/</link>
+    </image>
+    
+    <item>
+      <title>Temporal Graph Regression via Structure-Aware Intrinsic Representation Learning</title>
+      <link>https://m-fakhry.github.io/publication/han-2019-temporal/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/han-2019-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking Based Multitask Learning of Scoring Functions</title>
+      <link>https://m-fakhry.github.io/publication/stojkovic-2017-ranking/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/stojkovic-2017-ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Sensitive Time-series Classification</title>
+      <link>https://m-fakhry.github.io/publication/roychoudhury-2017-cost/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/roychoudhury-2017-cost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Conditional Dependency Network for Structured Regression</title>
+      <link>https://m-fakhry.github.io/publication/han-2017-continuous/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/han-2017-continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Redundancy Maximum Relevance Feature Selection Approach For Temporal Gene Expression Data</title>
+      <link>https://m-fakhry.github.io/publication/radovic-2017-minimum/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/radovic-2017-minimum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast Structured Regression For Large Networks</title>
+      <link>https://m-fakhry.github.io/publication/zhou-2016-fast/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/zhou-2016-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Learning of Representation and Structure for Sparse Regression on Graphs</title>
+      <link>https://m-fakhry.github.io/publication/han-2016-joint/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/han-2016-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Multiple Blood-Cleansing Interventions in Sepsis, Characterized in Rats</title>
+      <link>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/stojkovic-2016-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Feature Selection Using Coordinate Descent Optimization</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2016-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending the Modelling Capacity of Gaussian Conditional Random Fields while Learning Faster</title>
+      <link>https://m-fakhry.github.io/publication/glass-2016-extending/</link>
+      <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/glass-2016-extending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False Alarm Suppression in Early Prediction of Cardiac Arrhythmia</title>
+      <link>https://m-fakhry.github.io/publication/roychoudhury-2015-false/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/roychoudhury-2015-false/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient--Specific Early Classification of Multivariate Observations</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2015-patient/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2015-patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Temporal Patterns For Estimating Uncertainty In Interpretable Early Decision Making</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2014-utilizing/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2014-utilizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Model for Optimizing Therapy Duration for Septic Patients</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2014-data/</link>
+      <pubDate>Sat, 26 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2014-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction Of Interpretable Multivariate Patterns For Early Diagnostics</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Diagnosis And Its Benefits In Sepsis Blood Purification Treatment</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-early/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Early Classification Of Multivariate Time Series</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2013-interpretable/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2013-interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D2P2: Database Of Disordered Protein Predictions</title>
+      <link>https://m-fakhry.github.io/publication/oates-2013-d-2-p-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/oates-2013-d-2-p-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Classification of Multivariate Time Series Using A Hybrid HMM/SVM Model</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-earlyb/</link>
+      <pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-earlyb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Classification of Multivariate Temporal Observations By Extraction of Interpretable Shapelets</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</link>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA Methylation Differences at Growth Related Genes Correlate With Birth Weight: A Molecular Signature Linked To Developmental Origins of Adult Disease?</title>
+      <link>https://m-fakhry.github.io/publication/turan-2012-dna/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/turan-2012-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Analysis in Protein Disorder Prediction</title>
+      <link>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

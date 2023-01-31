@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephanie Hu | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/author/stephanie-hu/</link>
+      <atom:link href="https://m-fakhry.github.io/author/stephanie-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephanie Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Stephanie Hu</title>
+      <link>https://m-fakhry.github.io/author/stephanie-hu/</link>
+    </image>
+    
+    <item>
+      <title>G-Net: a Recurrent Network Approach to G-Computation for Counterfactual Prediction Under a Dynamic Treatment Regime</title>
+      <link>https://m-fakhry.github.io/publication/li-2021-g/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/publication/li-2021-g/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
