@@ -5,7 +5,7 @@
     <link>https://m-fakhry.github.io/</link>
       <atom:link href="https://m-fakhry.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohamed Ghalwash</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 22:43:18 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 13:02:54 +0000</lastBuildDate>
     <image>
       <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mohamed Ghalwash</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Interpretable Stratification for Chronic Kidney Disease Progression Based on Time to Event Analysis</title>
       <link>https://m-fakhry.github.io/publication/ghalwash-2023-interpretable/</link>
-      <pubDate>Mon, 30 Jan 2023 22:43:18 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 13:02:54 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/ghalwash-2023-interpretable/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Explanation Ontology: A General-Purpose, Semantic Representation for Supporting User-Centered Explanations</title>
       <link>https://m-fakhry.github.io/publication/chari-2023-explanation/</link>
-      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 13:02:50 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/chari-2023-explanation/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Informing Clinical Assessment by Contextualizing Post-Hoc Explanations of Risk Prediction Models in Type-2 Diabetes</title>
       <link>https://m-fakhry.github.io/publication/chari-2023-informing/</link>
-      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 13:02:50 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/chari-2023-informing/</guid>
       <description></description>
     </item>
@@ -41,6 +41,14 @@
       <link>https://m-fakhry.github.io/publication/ng-2022-data/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/ng-2022-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Ages to Screen</title>
+      <link>https://m-fakhry.github.io/talk/scr2022/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/scr2022/</guid>
       <description></description>
     </item>
     
@@ -213,14 +221,6 @@
     </item>
     
     <item>
-      <title>Plague Phylogeography: Novel Synthesis and Geospatial Analysis</title>
-      <link>https://m-fakhry.github.io/talk/beap2021/</link>
-      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/talk/beap2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Finding Causal Mechanistic Drug-Drug Interactions from Observational Data</title>
       <link>https://m-fakhry.github.io/publication/dey-2020-finding/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -269,6 +269,14 @@
     </item>
     
     <item>
+      <title>T1D1 Screening Toolbox</title>
+      <link>https://m-fakhry.github.io/talk/scr2020/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/scr2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>COOL - A Screening Collaborative Open Outcomes Tool</title>
       <link>https://m-fakhry.github.io/publication/ghalwash-2022-cool/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
@@ -293,22 +301,6 @@
     </item>
     
     <item>
-      <title>Presenting “The Plague”: Digital Exhibits as Interdisciplinary Method</title>
-      <link>https://m-fakhry.github.io/talk/dhsi2020/</link>
-      <pubDate>Fri, 05 Jun 2020 21:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/talk/dhsi2020/</guid>
-      <description>&lt;h2 id=&#34;dhsi2020-video-presentation&#34;&gt;DHSI2020 Video Presentation&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External Link to Video&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4&#34; &lt;=&#34;&#34; iframe=&#34;&#34; width=&#34;100%&#34; height=&#34;400px&#34; frameborder=&#34;1&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h2 id=&#34;presentation-exhibit&#34;&gt;Presentation Exhibit&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External Link to Exhibit&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote&#34; &lt;=&#34;&#34; iframe=&#34;&#34; width=&#34;125%&#34; height=&#34;600px&#34; frameborder=&#34;1&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>NCBImeta</title>
       <link>https://m-fakhry.github.io/project/ncbimeta/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
@@ -325,31 +317,11 @@
     </item>
     
     <item>
-      <title>Plagues, Pipes, and Genotypes</title>
-      <link>https://m-fakhry.github.io/talk/beap2020/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/talk/beap2020/</guid>
-      <description>&lt;p&gt;Template Attribution: 
-&lt;a href=&#34;https://freegoogleslidestemplates.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free Google Slides Template&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Learning Interpretable Strategies in the Presence of Existing Domain Knowledge</title>
       <link>https://m-fakhry.github.io/publication/xiao-2019-learning/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/xiao-2019-learning/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>NCBImeta</title>
-      <link>https://m-fakhry.github.io/talk/ncbimeta2019/</link>
-      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/talk/ncbimeta2019/</guid>
-      <description>&lt;p&gt;Template Attribution: 
-&lt;a href=&#34;https://freegoogleslidestemplates.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free Google Slides Template&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -829,6 +801,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Characterization of Intrinsic Disorder in a Large Database of Protein Sequences</title>
+      <link>https://m-fakhry.github.io/talk/prot2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/prot2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Early Classification of Multivariate Temporal Observations By Extraction of Interpretable Shapelets</title>
       <link>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</link>
       <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
@@ -849,6 +829,14 @@ $$&lt;/p&gt;
       <link>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Analysis of Uncertainty in Protein Disorder Prediction</title>
+      <link>https://m-fakhry.github.io/talk/prot2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/prot2011/</guid>
       <description></description>
     </item>
     

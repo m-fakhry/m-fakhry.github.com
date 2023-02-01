@@ -5,7 +5,7 @@
     <link>https://m-fakhry.github.io/author/mohamed-ghalwash/</link>
       <atom:link href="https://m-fakhry.github.io/author/mohamed-ghalwash/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohamed Ghalwash</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 22:43:18 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 13:02:54 +0000</lastBuildDate>
     <image>
       <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mohamed Ghalwash</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Interpretable Stratification for Chronic Kidney Disease Progression Based on Time to Event Analysis</title>
       <link>https://m-fakhry.github.io/publication/ghalwash-2023-interpretable/</link>
-      <pubDate>Mon, 30 Jan 2023 22:43:18 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 13:02:54 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/ghalwash-2023-interpretable/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Explanation Ontology: A General-Purpose, Semantic Representation for Supporting User-Centered Explanations</title>
       <link>https://m-fakhry.github.io/publication/chari-2023-explanation/</link>
-      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 13:02:50 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/chari-2023-explanation/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Informing Clinical Assessment by Contextualizing Post-Hoc Explanations of Risk Prediction Models in Type-2 Diabetes</title>
       <link>https://m-fakhry.github.io/publication/chari-2023-informing/</link>
-      <pubDate>Mon, 30 Jan 2023 22:43:15 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 13:02:50 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/chari-2023-informing/</guid>
       <description></description>
     </item>
@@ -41,6 +41,14 @@
       <link>https://m-fakhry.github.io/publication/ng-2022-data/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/ng-2022-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Ages to Screen</title>
+      <link>https://m-fakhry.github.io/talk/scr2022/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/scr2022/</guid>
       <description></description>
     </item>
     
@@ -233,6 +241,14 @@
       <link>https://m-fakhry.github.io/publication/ghalwash-2020-leveraging/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/ghalwash-2020-leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T1D1 Screening Toolbox</title>
+      <link>https://m-fakhry.github.io/talk/scr2020/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/scr2020/</guid>
       <description></description>
     </item>
     
@@ -469,6 +485,14 @@
     </item>
     
     <item>
+      <title>Characterization of Intrinsic Disorder in a Large Database of Protein Sequences</title>
+      <link>https://m-fakhry.github.io/talk/prot2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/prot2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Early Classification of Multivariate Temporal Observations By Extraction of Interpretable Shapelets</title>
       <link>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</link>
       <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
@@ -489,6 +513,14 @@
       <link>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Analysis of Uncertainty in Protein Disorder Prediction</title>
+      <link>https://m-fakhry.github.io/talk/prot2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/talk/prot2011/</guid>
       <description></description>
     </item>
     
