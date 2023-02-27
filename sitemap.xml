@@ -2,20 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://m-fakhry.github.io/publication-type/2/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/authors/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/brigitte-i.-frohnert/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/christiane-winkler/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/dpm/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/jessica-l.-dunne/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/jorma-toppari/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/kenney-ng/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/markus-lundgren/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/mohamed-ghalwash/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/olivia-lou/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/publication_types/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/publication/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/publication/brigitte-2023-refining/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/riitta-veijola/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/t1d/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tags/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/the-t1di-study-group/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/time-to-event/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/vibha-anand/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/william-hagopian/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/ying-li/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
     <loc>https://m-fakhry.github.io/publication-type/1/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/akira-koseki/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/authors/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/tag/ckd/</loc>
     <lastmod>2023-02-01T15:02:54+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/dpm/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/publication/ghalwash-2023-interpretable/</loc>
     <lastmod>2023-02-01T15:02:54+02:00</lastmod>
@@ -23,32 +86,11 @@
     <loc>https://m-fakhry.github.io/author/michiharu-kudo/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/author/mohamed-ghalwash/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/author/pablo-meyer/</loc>
     <lastmod>2023-02-01T15:02:55+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/publication_types/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/publication/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tags/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/time-to-event/</loc>
-    <lastmod>2023-02-01T15:02:56+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/author/toshiya-iwamori/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/publication-type/2/</loc>
-    <lastmod>2023-02-01T15:02:51+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/daniel-m-gruen/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
@@ -101,6 +143,24 @@
     <loc>https://m-fakhry.github.io/tag/t2d/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
   </url><url>
+    <loc>https://m-fakhry.github.io/author/anette-g-ziegler/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/frank-martin/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/publication/ghalwash-2023-islet/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/marian-rewers/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/t1di-study-group/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/author/william-a-hagopian/</loc>
+    <lastmod>2023-02-27T09:38:32+02:00</lastmod>
+  </url><url>
     <loc>https://m-fakhry.github.io/publication-type/6/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
   </url><url>
@@ -113,50 +173,20 @@
     <loc>https://m-fakhry.github.io/author/hiroki-yanagisawa/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/author/kenney-ng/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/tag/time-2-event/</loc>
     <lastmod>2023-02-01T15:02:54+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/talk/scr2022/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/tag/t1d/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/talk/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/anette-g-ziegler/</loc>
-    <lastmod>2023-02-01T15:02:50+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/jessica-l-dunne/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/author/jorma-toppari/</loc>
-    <lastmod>2023-02-01T15:02:50+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/marian-rewers/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/markus-lundgren/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/riitta-veijola/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/t1di-study-group/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/publication/ghalwash-2022-two/</loc>
     <lastmod>2023-02-01T15:02:50+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/vibha-anand/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/william-hagopian/</loc>
-    <lastmod>2023-02-01T15:02:57+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/amol-patwardhan/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
@@ -413,20 +443,11 @@
     <loc>https://m-fakhry.github.io/author/uri-kartoun/</loc>
     <lastmod>2023-02-01T15:02:55+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/author/ying-li/</loc>
-    <lastmod>2023-02-01T15:02:55+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/author/anette-gabriele-ziegler/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/bin-liu/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/brigitte-i.-frohnert/</loc>
-    <lastmod>2023-02-01T15:02:50+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/author/christiane-winkler/</loc>
-    <lastmod>2023-02-01T15:02:50+02:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/eileen-koski/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
