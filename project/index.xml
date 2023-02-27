@@ -5,7 +5,7 @@
     <link>https://m-fakhry.github.io/project/</link>
       <atom:link href="https://m-fakhry.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,34 +13,130 @@
     </image>
     
     <item>
-      <title>Autologs</title>
-      <link>https://m-fakhry.github.io/project/autologs/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/project/autologs/</guid>
+      <title>Patient Representation</title>
+      <link>https://m-fakhry.github.io/project/embedding/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/embedding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Flowdash-Bio</title>
-      <link>https://m-fakhry.github.io/project/flowdash-bio/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/project/flowdash-bio/</guid>
+      <title>Computational Models for Type 1 Diabetes (T1D)</title>
+      <link>https://m-fakhry.github.io/project/jdrf/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/jdrf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NCBImeta</title>
-      <link>https://m-fakhry.github.io/project/ncbimeta/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/project/ncbimeta/</guid>
+      <title>Objective Pain Metric</title>
+      <link>https://m-fakhry.github.io/project/pain/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/pain/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plague</title>
-      <link>https://m-fakhry.github.io/project/plague/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://m-fakhry.github.io/project/plague/</guid>
+      <title>Structured Regression in Complex Networks by Fusion of Qualitative Knowledge and Big Data</title>
+      <link>https://m-fakhry.github.io/project/darpa-bigdata/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospective Analysis of Large and Complex Partially Observed Temporal Social Networks</title>
+      <link>https://m-fakhry.github.io/project/darpa-socialnet/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-socialnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling of Patient State and Therapy Optimization</title>
+      <link>https://m-fakhry.github.io/project/darpa-sepsis/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-sepsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodafone DCA (Distribution Channels Automation)</title>
+      <link>https://m-fakhry.github.io/project/vodafone-dca/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone-dca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodafone HandHeld</title>
+      <link>https://m-fakhry.github.io/project/vodafone-handheld/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone-handheld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodafone Website</title>
+      <link>https://m-fakhry.github.io/project/vodafone/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al Watany Bank (AWB)</title>
+      <link>https://m-fakhry.github.io/project/awb/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/awb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ministry of Civil Aviation (MOCA) Portal</title>
+      <link>https://m-fakhry.github.io/project/moca/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/moca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Societe Generale Bank Middleware (NSGB)</title>
+      <link>https://m-fakhry.github.io/project/nsgb/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/nsgb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSGB Admin Web Tool</title>
+      <link>https://m-fakhry.github.io/project/nsgbadmin/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/nsgbadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arabization of Invoicing System – Duravit Company</title>
+      <link>https://m-fakhry.github.io/project/duravit/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/duravit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Web Based Integration System (ERP) of the Credit Guarantee Company (CGC)</title>
+      <link>https://m-fakhry.github.io/project/cgc/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/cgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructor</title>
+      <link>https://m-fakhry.github.io/project/instructor/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/instructor/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raya Software | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/raya-software/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/raya-software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raya Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Raya Software</title>
+      <link>https://m-fakhry.github.io/tag/raya-software/</link>
+    </image>
+    
+    <item>
+      <title>Al Watany Bank (AWB)</title>
+      <link>https://m-fakhry.github.io/project/awb/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/awb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ministry of Civil Aviation (MOCA) Portal</title>
+      <link>https://m-fakhry.github.io/project/moca/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/moca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Societe Generale Bank Middleware (NSGB)</title>
+      <link>https://m-fakhry.github.io/project/nsgb/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/nsgb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSGB Admin Web Tool</title>
+      <link>https://m-fakhry.github.io/project/nsgbadmin/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/nsgbadmin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

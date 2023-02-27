@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asset Technology Group | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/asset-technology-group/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/asset-technology-group/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asset Technology Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Asset Technology Group</title>
+      <link>https://m-fakhry.github.io/tag/asset-technology-group/</link>
+    </image>
+    
+    <item>
+      <title>Vodafone DCA (Distribution Channels Automation)</title>
+      <link>https://m-fakhry.github.io/project/vodafone-dca/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone-dca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodafone HandHeld</title>
+      <link>https://m-fakhry.github.io/project/vodafone-handheld/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone-handheld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodafone Website</title>
+      <link>https://m-fakhry.github.io/project/vodafone/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

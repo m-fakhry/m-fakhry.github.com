@@ -515,27 +515,6 @@
     <loc>https://m-fakhry.github.io/publication/sow-2021-system/</loc>
     <lastmod>2023-02-01T15:02:54+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/project/autologs/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/database/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/project/flowdash-bio/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/github/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/ngs/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/project/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/software-development/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/author/chandramouli-maduri/</loc>
     <lastmod>2023-02-01T15:02:53+02:00</lastmod>
   </url><url>
@@ -608,20 +587,20 @@
     <loc>https://m-fakhry.github.io/author/michal-ozery-flato/</loc>
     <lastmod>2023-02-01T15:02:56+02:00</lastmod>
   </url><url>
+    <loc>https://m-fakhry.github.io/tag/aiml/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/ibm/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/embedding/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://m-fakhry.github.io/publication/ghalwash-2020-optimal/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/genomics/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/project/ncbimeta/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/tag/plague/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-fakhry.github.io/project/plague/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/cao-xiao/</loc>
     <lastmod>2023-02-01T15:02:54+02:00</lastmod>
@@ -716,6 +695,12 @@
     <loc>https://m-fakhry.github.io/tag/time-series/</loc>
     <lastmod>2023-02-01T15:02:57+02:00</lastmod>
   </url><url>
+    <loc>https://m-fakhry.github.io/project/jdrf/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/pain/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://m-fakhry.github.io/publication/han-2017-continuous/</loc>
     <lastmod>2023-02-01T15:02:52+02:00</lastmod>
   </url><url>
@@ -773,6 +758,12 @@
     <loc>https://m-fakhry.github.io/tag/interpretable/</loc>
     <lastmod>2023-02-01T15:02:51+02:00</lastmod>
   </url><url>
+    <loc>https://m-fakhry.github.io/project/darpa-bigdata/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/temple/</loc>
+    <lastmod>2023-02-01T15:02:49+02:00</lastmod>
+  </url><url>
     <loc>https://m-fakhry.github.io/author/dusan-ramljak/</loc>
     <lastmod>2023-02-01T15:02:51+02:00</lastmod>
   </url><url>
@@ -827,9 +818,6 @@
     <loc>https://m-fakhry.github.io/author/takashi-ishida/</loc>
     <lastmod>2023-02-01T15:02:49+02:00</lastmod>
   </url><url>
-    <loc>https://m-fakhry.github.io/tag/temple/</loc>
-    <lastmod>2023-02-01T15:02:49+02:00</lastmod>
-  </url><url>
     <loc>https://m-fakhry.github.io/author/vladimir-n-uversky/</loc>
     <lastmod>2023-02-01T15:02:49+02:00</lastmod>
   </url><url>
@@ -847,6 +835,9 @@
   </url><url>
     <loc>https://m-fakhry.github.io/publication/ghalwash-2012-earlya/</loc>
     <lastmod>2023-02-01T15:02:49+02:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/darpa-socialnet/</loc>
+    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/author/carmen-sapienza/</loc>
     <lastmod>2023-02-01T15:02:49+02:00</lastmod>
@@ -869,8 +860,53 @@
     <loc>https://m-fakhry.github.io/publication/ghalwash-2012-uncertainty/</loc>
     <lastmod>2023-02-01T15:02:49+02:00</lastmod>
   </url><url>
+    <loc>https://m-fakhry.github.io/project/darpa-sepsis/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://m-fakhry.github.io/talk/prot2011/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/asset-technology-group/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/vodafone-dca/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/vodafone-handheld/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/vodafone/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/awb/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/moca/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/nsgb/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/nsgbadmin/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/raya-software/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/duravit/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/cgc/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/nile-soft/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/tag/allied-soft/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-fakhry.github.io/project/instructor/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://m-fakhry.github.io/categories/</loc>
   </url><url>

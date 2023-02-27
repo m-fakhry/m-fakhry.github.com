@@ -5,12 +5,20 @@
     <link>https://m-fakhry.github.io/tag/temple/</link>
       <atom:link href="https://m-fakhry.github.io/tag/temple/index.xml" rel="self" type="application/rss+xml" />
     <description>Temple</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://m-fakhry.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Temple</title>
       <link>https://m-fakhry.github.io/tag/temple/</link>
     </image>
+    
+    <item>
+      <title>Structured Regression in Complex Networks by Fusion of Qualitative Knowledge and Big Data</title>
+      <link>https://m-fakhry.github.io/project/darpa-bigdata/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-bigdata/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>D2P2: Database Of Disordered Protein Predictions</title>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
+      <title>Prospective Analysis of Large and Complex Partially Observed Temporal Social Networks</title>
+      <link>https://m-fakhry.github.io/project/darpa-socialnet/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-socialnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DNA Methylation Differences at Growth Related Genes Correlate With Birth Weight: A Molecular Signature Linked To Developmental Origins of Adult Disease?</title>
       <link>https://m-fakhry.github.io/publication/turan-2012-dna/</link>
       <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://m-fakhry.github.io/publication/turan-2012-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling of Patient State and Therapy Optimization</title>
+      <link>https://m-fakhry.github.io/project/darpa-sepsis/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-sepsis/</guid>
       <description></description>
     </item>
     
