@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/software/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu3d8a98993258856ee99c8aff1d9db546_18128_512x512_fill_lanczos_center_3.png</url>
+      <title>Software</title>
+      <link>https://m-fakhry.github.io/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>Vodafone DCA (Distribution Channels Automation)</title>
+      <link>https://m-fakhry.github.io/project/vodafone-dca/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone-dca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodafone HandHeld</title>
+      <link>https://m-fakhry.github.io/project/vodafone-handheld/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone-handheld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vodafone Website</title>
+      <link>https://m-fakhry.github.io/project/vodafone/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/vodafone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al Watany Bank (AWB)</title>
+      <link>https://m-fakhry.github.io/project/awb/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/awb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ministry of Civil Aviation (MOCA) Portal</title>
+      <link>https://m-fakhry.github.io/project/moca/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/moca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Societe Generale Bank Middleware (NSGB)</title>
+      <link>https://m-fakhry.github.io/project/nsgb/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/nsgb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSGB Admin Web Tool</title>
+      <link>https://m-fakhry.github.io/project/nsgbadmin/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/nsgbadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arabization of Invoicing System – Duravit Company</title>
+      <link>https://m-fakhry.github.io/project/duravit/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/duravit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Web Based Integration System (ERP) of the Credit Guarantee Company (CGC)</title>
+      <link>https://m-fakhry.github.io/project/cgc/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/cgc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

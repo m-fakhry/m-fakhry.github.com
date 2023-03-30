@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Mohamed Ghalwash</title>
+    <link>https://m-fakhry.github.io/tag/research/</link>
+      <atom:link href="https://m-fakhry.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-fakhry.github.io/images/icon_hu3d8a98993258856ee99c8aff1d9db546_18128_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://m-fakhry.github.io/tag/research/</link>
+    </image>
+    
+    <item>
+      <title>Patient Representation</title>
+      <link>https://m-fakhry.github.io/project/embedding/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Models for Type 1 Diabetes (T1D)</title>
+      <link>https://m-fakhry.github.io/project/jdrf/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/jdrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective Pain Metric</title>
+      <link>https://m-fakhry.github.io/project/pain/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Regression in Complex Networks by Fusion of Qualitative Knowledge and Big Data</title>
+      <link>https://m-fakhry.github.io/project/darpa-bigdata/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospective Analysis of Large and Complex Partially Observed Temporal Social Networks</title>
+      <link>https://m-fakhry.github.io/project/darpa-socialnet/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-socialnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling of Patient State and Therapy Optimization</title>
+      <link>https://m-fakhry.github.io/project/darpa-sepsis/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://m-fakhry.github.io/project/darpa-sepsis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
